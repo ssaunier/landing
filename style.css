@@ -1,0 +1,22 @@
+body {
+  font-family: Lato;
+  font-weight: 300;
+}
+
+h1 {
+  color: #5F66DD;
+  font-family: Lato, sans-serif;
+}
+
+a {
+  color: orange;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h2 {
+  color: red;
+}
